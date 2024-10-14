@@ -1,9 +1,10 @@
-## Hi there 👋
-
-<!--
-**oimawin/oimawin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+🧑 She/they
+🏫 Software Engineering B.S. at UCI
+📃 Proficiency in Python
+🌱 Learning C++ and R
+💭 Interested in UI/UX design or backend development
+👯 I love KPOP and doing KPOP dances!
+📫 Email: emmath@uci.edu
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
